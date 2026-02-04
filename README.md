@@ -1,5 +1,4 @@
-# musical-umbrella
-Test instances of CTVD-TSP-FO
+# Test instances of CTVD-TSP-FO
 
 Data Declaration: 
 - Each instance is annotated with a yellow label indicating its scale.
